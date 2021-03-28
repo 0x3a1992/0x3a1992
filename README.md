@@ -9,8 +9,8 @@
 #### I am a Student a Security information and programming.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NewSec74&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="NewSec" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NewSec74&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="0x3a" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewSec74&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 
-⭐️ From [NewSec](https://github.com/NewSec74)
+⭐️ From [NewSec](https://github.com/0x3a1992)
